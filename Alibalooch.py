@@ -227,15 +227,15 @@ def main_apv():
 logo="""\033[1;37m
 
  \033[1;32m         
-
-──◌➗◌╮╽╭⋆⋆⋆╮╽╭◌➗◌──
-⬜🟧🟥🟪🟫⭕⭕🟫🟪🟥🟧⬜
-ــــــــــــJAWADــــــــــــ ALEE
-⬜🟧🟥🟪🟫⭕⭕🟫🟪🟥🟧⬜
-──◌➗◌╯╿╰⋆⋆⋆╯╿╰◌➗◌──
-
-
-
+JAWAD___ALEEE
+CAMMAND FREEE HAIN
+SCRIPP V PUBLIC AA
+KOII PANGAA NHI JUST FUN
+awaaam k khter sb kr rhaa
+uss LIYE CHILL MARO
+OFFICAL id Amir KHAN NAME SY HAI
+JISMOO JO BHII KAMM HAI WO IDD MSG KRY
+GYE CAMMAND GHLTT HO GYEE USS LIYE ETNI DASTAN 😂🖐️LEKHI
  [$]_____________________________________________[$]
 
 
